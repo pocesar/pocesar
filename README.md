@@ -1,4 +1,5 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/972c12e5-6296-476e-92f0-aa8363467f8b)
+
 
 <!--
 **pocesar/pocesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
